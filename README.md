@@ -1,4 +1,4 @@
-### Olá!! Eu sou Raphael Correa e estou aprendendo a programar!! 👋
+### Olá!! Eu sou Raphael Correa e estou aprendendo a programar!!
 
 <div align="center">
   <a href="https://github.com/Raphael3Dx">
