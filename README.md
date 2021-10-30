@@ -1,8 +1,8 @@
 ### Olá!! Eu sou Raphael Correa e estou aprendendo a programar!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <div align="center">
   <a href="https://github.com/Raphael3Dx">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Raphael3Dx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael3Dx&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Raphael3Dx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael3Dx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
     
