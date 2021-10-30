@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/raphael-correa-105073147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/raphael3Dx" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-      src="https://giffiles.alphacoders.com/813/81333.gif"
+      src="https://giffiles.alphacoders.com/121/12161.gif"
  
   
  
